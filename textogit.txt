@@ -1,5 +1,11 @@
 entrada 1
 modificacion 1
 modificacion 2
+<<<<<<< HEAD
 modificacion 3
 modificacion 4
+=======
+modificaion 3
+modificacion 4
+mod5
+>>>>>>> test
